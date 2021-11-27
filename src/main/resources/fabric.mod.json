@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "truthmod",
   "version": "${version}",
 
   "name": "Truth Mod",
@@ -23,7 +23,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "truthmod.mixins.json"
   ],
 
   "depends": {
