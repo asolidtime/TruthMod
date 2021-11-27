@@ -1,9 +1,13 @@
-# Fabric Example Mod
+# Truth Mod 🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿
 
-## Setup
+it's a mod about a talking totem that you summon by making a shrine  
+yes, i know  
+and yes, it really came to me in a dream  
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## FAQ
+###### Q: Is this a shitpost?
+A: yea
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the MIT license. Feel free to learn from it and incorporate it in your own projects.
