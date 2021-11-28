@@ -13,13 +13,16 @@
     "sources": "https://github.com/asolidtime/TruthMod"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
       "dev.asolidtime.truthmod.TruthMod"
+    ],
+    "client": [
+      "dev.asolidtime.truthmod.TruthModClient"
     ]
   },
   "mixins": [
